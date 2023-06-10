@@ -1,0 +1,72 @@
+	size: 540x810   
+{
+        id: 1,
+        image: "C:\Users\vxdat\Documents\FER\image",
+        Title: "Snow White and the Seven Dwarfs",
+        Year: 1937,
+        Nation: "USA",
+    },	
+
+{
+        id: 2,
+        image: "C:\Users\vxdat\Documents\FER\image",
+        Title: "Pinocchio",
+        Year: 1940,
+        Nation: "Korea",
+    },
+
+    {
+        id: 3,
+        image: "C:\Users\vxdat\Documents\FER\image",
+        Title: "Make Mine Music",
+        Year: 1946,
+        Nation: "USA",
+    },
+
+    {
+        id: 4,
+        image: "C:\Users\vxdat\Documents\FER\image",
+        Title: "Cars 3",
+        Year: 2017,
+        Nation: "USA",
+    },
+
+    {
+        id: 5,
+        image: "C:\Users\vxdat\Documents\FER\image",
+        Title: "Ant-Man and The Wasp",
+        Year: 2018,
+        Nation: "USA",
+    },
+
+    {
+        id: 6,
+        image: "C:\Users\vxdat\Documents\FER\image",
+        Title: "Star Wars: The Rise of Skywalker",
+        Year: 2019,
+        Nation: "USA",
+    },
+
+    {
+        id: 7,
+        image: "C:\Users\vxdat\Documents\FER\image",
+        Title: "Captain Marvel ",
+        Year: 2019,
+        Nation: "USA",
+    },
+
+    {
+        id: 8,
+        image: "C:\Users\vxdat\Documents\FER\image",
+        Title: "Sonic the Hedgehog",
+        Year: 2020,
+        Nation: "USA, Japan",
+    },
+
+    {
+        id: 9,
+        image: "C:\Users\vxdat\Documents\FER\image",
+        Title: "Guardians of the Galaxy",
+        Year: 2023,
+        Nation: "USA",
+    },
